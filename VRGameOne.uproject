@@ -54,6 +54,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "FieldSystemPlugin",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
